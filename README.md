@@ -7,8 +7,19 @@
   <br>
 </h1>
 
-<h4 align="center"> Your 3D printer just got a whole lot smarter!</h4>
-    <br>
+<h4 align="center"> Your 3D printer just got a whole lot smarter!<br>
+<br>
+
+Compatible with BTT Eddy and IDM scanner
+
+
+
+
+<img src="https://biqu.equipment/cdn/shop/files/EddyCoilimage_1_345x345_crop_center.png?v=1713528001" height=300>
+<img src="https://ae01.alicdn.com/kf/Sa0fabfa2dfdf4b10bb42d8eecf590802W/Blurolls-1pc-IDM-Scanner-sensore-di-livellamento-Voron-PCB-CAN-Board-solo-compatibile-con-Klipper-per.jpg" height=300>
+
+</h4>
+<br>
 <p align="center">
 <img src="./Photos/Badges/built-for-klipper-made-with-love.svg" width="400">
 </p>
