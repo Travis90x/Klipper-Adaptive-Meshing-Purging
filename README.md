@@ -87,7 +87,7 @@ The cleanest and easiest way to get started with KAMP is to use Moonraker's Upda
    ```bash
     cd
     
-    git clone https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+    git clone https://github.com/Travis90x/Klipper-Adaptive-Meshing-Purging.git
     
     ln -s ~/Klipper-Adaptive-Meshing-Purging/Configuration printer_data/config/KAMP
 
@@ -104,7 +104,7 @@ The cleanest and easiest way to get started with KAMP is to use Moonraker's Upda
    type: git_repo
    channel: dev
    path: ~/Klipper-Adaptive-Meshing-Purging
-   origin: https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging.git
+   origin: https://github.com/Travis90x/Klipper-Adaptive-Meshing-Purging.git
    managed_services: klipper
    primary_branch: main
     ```
