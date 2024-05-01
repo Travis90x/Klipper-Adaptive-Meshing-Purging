@@ -18,6 +18,10 @@ Compatible with BTT Eddy and IDM scanner
 <img src="https://biqu.equipment/cdn/shop/files/EddyCoilimage_1_345x345_crop_center.png?v=1713528001" height=300>
 <img src="https://ae01.alicdn.com/kf/Sa0fabfa2dfdf4b10bb42d8eecf590802W/Blurolls-1pc-IDM-Scanner-sensore-di-livellamento-Voron-PCB-CAN-Board-solo-compatibile-con-Klipper-per.jpg" height=300>
 
+
+For BTT Eddy, if had error in the console: "No valid measurements found at coordinate : xxxx" <br>
+Reduce the value of "horizontal_move", but it has to be > z_offset. <br>
+
 </h4>
 <br>
 <p align="center">
